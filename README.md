@@ -1,0 +1,2 @@
+# js
+Latihan Javascript 
