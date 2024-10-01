@@ -1,0 +1,20 @@
+//JSON is a text-based data format following JavaScript object syntax
+
+{
+  "pabrikan": "Yamaha Motor",
+  "asal": "Jepang",
+  "taunBerdiri": 1955,
+  "aktif": true,
+  "series": [
+    {
+      "nama": "Nmax",
+      "jenis": "Matic",
+      "varian": ["Yamaha Nmax 155 std", "Yamaha Nmax 155 ABS"]
+    },
+    {
+      "nama": "X-ride",
+      "jenis": "Matic",
+      "varian": ["Yamaha X-ride 115", "Yamaha X-ride 125"]
+    }
+  ]
+}
